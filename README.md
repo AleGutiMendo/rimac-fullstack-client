@@ -7,7 +7,7 @@ Install this repo by running either of the following:
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/Furuk41/frontend-challenge-rimac.git
+git clone https://github.com/AleGutiMendo/rimac-fullstack-client.git
 ```
 
 Run in terminal this command:
